@@ -4,7 +4,7 @@
 
 ### anime-recommendations-database
 kaggleのアニメデータセットを利用した、アニメレコメンドモデルの構築  
-データセットは[こちら](https://www.kaggle.com/CooperUnion/anime-recommendations-database
+データセットは[こちら](https://www.kaggle.com/CooperUnion/anime-recommendations-database)
 
 ### RecruitRestaurantVisitorForecasting
 kaggleのリクルートレストラン来客数データセットを利用した来客数の予測  
